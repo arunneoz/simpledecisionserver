@@ -6,7 +6,7 @@ end
 
 rule "greet master"
     when
-        person : Person( name == "arun")
+        person : Person( name == "arunneo")
     then
         String salutation = "Hello " + person.getName() + "! you really rock!";
         insert(new Greeting(salutation));
