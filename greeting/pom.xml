@@ -4,7 +4,7 @@
 
    <groupId>org.openshift.quickstarts</groupId>
    <artifactId>decisionserver-hellorules</artifactId>
-   <version>1.2.0.Final</version>
+   <version>1.3.0</version>
 
    <name>OpenShift Quickstarts: Decision Server: Hello Rules</name>
    <description>A simple example application demonstrating the use of a business rule.</description>
